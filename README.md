@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veeragangadharnarala
 - 👀 I’m interested in technology & new Tech innovation
 - 🌱 I’m currently learning java
-- 📫 How to reach me naralagangadhar3@gmail.com
+- 📫 How to reach me naralaveeragangadhar3@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
