@@ -1,0 +1,29 @@
+Operators - Treasure Hunter
+
+input :
+
+t=int(input())
+x=int(input())
+y=int(input())
+lb=t*x//100
+b1=t-lb
+bb=b1*y//100
+b2=b1-bb
+p=b2//3
+print(lb)
+print(bb)
+print(p)
+
+Sample Input 1
+
+654
+87
+65
+
+Sample Output 1
+
+568
+55
+10
+
+
