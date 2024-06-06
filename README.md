@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology & new Tech innovation
 - 🌱 I’m currently learning java
 - 📫 How to reach me naralaveeragangadhar3@gmail.com
-- 😄 Hobbies : micro artist,video editing,writing ghost stories
+- 😄 Hobbies :cooking,drawing,video-editing,writing ghost stories,
 - ⚡ Fun fact: The world’s first computer-generated feature film, “Toy Story,” was released by Pixar in 1995.
 
 <!---
