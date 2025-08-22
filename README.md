@@ -1,6 +1,6 @@
  👋 **Hi, I'm Veeragangadhar Narala**  
 
-💻  **UI/UX Enthusiast | Aspiring Developer | WEB DESIGNER|JAVA** 
+💻  **UI/UX Enthusiast | Aspiring Developer | WEB DESIGNER | JAVA** 
 Passionate about creating clean, user-friendly designs and building impactful digital products.  
 
 ---
