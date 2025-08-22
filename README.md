@@ -6,9 +6,9 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 🚀 **About Me**  
-- 🌱 Currently learning *Java & UI/UX Design*  
-- 🎯 Goal: Become a *remote developer/designer* and work with international teams (Japan-focused 🌏)  
-- 💡 Interested in *Web Development, Crypto, and AI tools*  
+- 🌱 Currently learning **Java & UI/UX Design** 
+- 🎯 Goal: Become a **remote developer/designer** and work with international teams (Japan-focused 🌏)  
+- 💡 Interested in **Web Development, Crypto, and AI tools**
 - ⚡ Fun fact: I get more confident whenever I explore new tech & build projects! 
 
 ---
