@@ -39,20 +39,14 @@ Passionate about creating clean, user-friendly designs and building impactful di
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=highcontrast)  
-![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=PROFILE%20VIEWS&color=ff6b6b&style=for-the-badge)
+ 
 
 
 
 ---
   ## 👀 Profile Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Visitors&color=0e75b6&style=for-the-badge)
-
-## 👀 Profile Visitors
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Veeragangadharnarala &count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://github.com/Veeragangadharnarala)
-
-
-
-
+ 
 ---
 
 ## 📈 Contribution Activity  
