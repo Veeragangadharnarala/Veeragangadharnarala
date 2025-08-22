@@ -32,13 +32,16 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=algolia)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=algolia)  
+![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=tokyo-night )  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=tokyo-night )  
 
 ---
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=highcontrast)  
+![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=PROFILE%20VIEWS&color=ff6b6b&style=for-the-badge)
+
+
 
 ---
   ## 👀 Profile Visitors
@@ -48,7 +51,7 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 ## 📈 Contribution Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=tokyo-night)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=high-contrast)  
 
 ---
 
