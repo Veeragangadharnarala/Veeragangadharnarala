@@ -32,13 +32,13 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=onedark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=onedark)  
+![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=dracula)  
 
 ---
 
 ## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=onedark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=dracula)  
 
 ---
 
