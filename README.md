@@ -32,23 +32,23 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=merko)  
+![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=gruvbox)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=gruvbox)  
 
 ---
 
 ## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=merko)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=gruvbox)  
 
 ---
+  ## 👀 Profile Visitors
+![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Visitors&color=0e75b6&style=for-the-badge)
 
-## 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=Veeragangadharnarala&color=blue&style=flat-square)  
 
 ---
 
 ## 📈 Contribution Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=react-dark&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=tokyo-night)  
 
 ---
 
