@@ -1,11 +1,4 @@
-  
-
- 👋 Hi, I'm Veeragangadhar Narala  
-
-💻  **UI/UX Enthusiast | Aspiring Developer | WEB DESIGNER|JAVA**  
-Passionate about creating clean, user-friendly designs and building impactful digital products.  
-
----
+ # Hi there, I'm VeeraGangadhar 👋  
 
 ## 🚀 About Me  
 - 🌱 Currently learning **Java & UI/UX Design**  
@@ -13,54 +6,30 @@ Passionate about creating clean, user-friendly designs and building impactful di
 - 💡 Interested in **Web Development, Crypto, and AI tools**  
 - ⚡ Fun fact: I get more confident whenever I explore new tech & build projects!  
 
----
- 
-
 ⭐️ *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
 
 ---
 
-## 🚀 Tech Stack & Tools  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+## 🛠️ Skills  
+- **Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- **Design**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=adobe&logoColor=white)  
+- **Tools**: Git, GitHub, VS Code  
 
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=dark    )  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=dark    )  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default&hide_border=true)  
 
 ---
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=highcontrast)  
- 
-
-
-
----
-  ## 👀 Profile Visitors
-![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Visitors&color=0e75b6&style=for-the-badge)
- 
----
-
-## 📈 Contribution Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=high-contrast)  
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narala-veeragangadhar-388224231)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narala-veeragangadhar-388224231)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veeragangadharnarala)  
+## 👀 Visitors  
+![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat-square)  
 
 ---
-
-✨ _“Code is like art — I aim to design experiences, not just interfaces.”_
-
-
