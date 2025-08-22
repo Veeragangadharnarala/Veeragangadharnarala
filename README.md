@@ -1,11 +1,13 @@
   👋 **Hi, I'm Veeragangadhar Narala**  
 
 💻  **UI/UX Enthusiast | Aspiring Developer | WEB DESIGNER | JAVA** 
+
 Passionate about creating clean, user-friendly designs and building impactful digital products.  
 
 ---
 
 🚀 **About Me**  
+
 - 🌱 Currently learning **Java & UI/UX Design** 
 - 🎯 Goal: **Become a remote developer/designer and work with international teams (Japan-focused 🌏)**   
 - 💡 Interested in **Web Development, Crypto, and AI tools**
@@ -25,13 +27,15 @@ Passionate about creating clean, user-friendly designs and building impactful di
 
 ---
 
- 📊 GitHub Stats  
+## 📊 Github stats 
+ 
 ![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=dark    )  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=dark    )  
 
 ---
 
- 🔥 Streak Stats  
+ ## 🔥 Streak Stats  
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=highcontrast)  
  
 
@@ -45,12 +49,14 @@ Passionate about creating clean, user-friendly designs and building impactful di
  
 ---
 
- 📈 Contribution Activity  
+## 📈 Contribution Activity  
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeragangadharnarala&theme=high-contrast)  
 
 ---
 
- 🌐 Connect with Me  
+## 🌐 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narala-veeragangadhar-388224231)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veeragangadharnarala)
