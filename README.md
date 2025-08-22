@@ -1,8 +1,18 @@
  # 👋 Hi, I'm Gangadhar  
 
 💻 A passionate **Web Designer & UI/UX Enthusiast** from India  
-🚀 Exploring **Frontend Development**, **AI tools**, and **Creative Designing**  
+🚀 Exploring **Frontend Development**, **Java**, and **Creative Designing**  
 🎯 Goal: To become a **Top Remote Developer in Japan** 🇯🇵  
+
+---
+
+## 🚀 About Me  
+- 🌱 Currently learning **Java & UI/UX Design**  
+- 🎯 Goal: Become a **remote developer/designer** and work with international teams (Japan-focused 🌏)  
+- 💡 Interested in **Web Development, Crypto, and AI tools**  
+- ⚡ Fun fact: I get more confident whenever I explore new tech & build projects!  
+
+⭐️ *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
 
 ---
 
@@ -11,19 +21,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=radical)  
+![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
 
 ---
 
 ## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeragangadharnarala&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
 
 ---
 
@@ -35,4 +46,5 @@
 ---
 
 ✨ _“Code is like art — I aim to design experiences, not just interfaces.”_
+
 
