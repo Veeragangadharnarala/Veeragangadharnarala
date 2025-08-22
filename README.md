@@ -32,8 +32,8 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ---
 
 ## 📊 GitHub Stats  
-![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=high-contrast)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=high-contrast)  
+![Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veeragangadharnarala&show_icons=true&theme=highcontrast  )  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeragangadharnarala&layout=compact&theme=highcontrast  )  
 
 ---
 
