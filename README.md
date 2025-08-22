@@ -39,3 +39,5 @@
 ![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat-square)  
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar5v&theme=default&hide_border=true)
+
