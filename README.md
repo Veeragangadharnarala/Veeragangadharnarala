@@ -58,7 +58,7 @@ Passionate about creating clean, user-friendly designs and building impactful di
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narala-veeragangadhar-388224231)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](httpsh://nveeragangadhar-khdzrz8.gamma.site/about)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nveeragangadhar-khdzrz8.gamma.site/about)  
  
   
   
